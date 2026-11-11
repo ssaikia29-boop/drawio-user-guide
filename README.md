@@ -1,7 +1,6 @@
-# Docs as Code Starter (Docusaurus)
+# draw.io User Guide
 
-A ready-to-use starter for corporate documentation: Docusaurus site, Markdown linting,
-pull request checks, code owners, and automated publishing with GitHub Actions.
+A task-oriented user guide for draw.io (diagrams.net) that helps users understand the editor interface and create, edit, format, and manage diagrams. This documentation project demonstrates technical writing and docs-as-code practices using Docusaurus, Markdown, Git, and GitHub Actions.
 
 ## Quick start
 

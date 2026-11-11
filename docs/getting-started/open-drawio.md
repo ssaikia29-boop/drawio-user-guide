@@ -12,5 +12,5 @@ The draw.io editor opens with a blank canvas. You can now start creating a diagr
 
 ## Related information
 
-- [Understanding the draw.io editor](understanding-editor.md)
+- [Understanding the draw.io editor](/drawio-user-guide/docs/getting-started/understanding-editor)
 - [Select a template](select-template.md)

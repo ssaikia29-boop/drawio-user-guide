@@ -11,8 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
  * Set the defaults below, or override per environment with DOCS_URL and
  * DOCS_BASE_URL (the deploy workflows do this), so the file never changes.
  */
-const ORG = 'YOUR-ORG';
-const REPO = 'YOUR-REPO';
+const ORG = 'ssaikia29-boop';
+const REPO = 'drawio-user-guide';
 
 const url = process.env.DOCS_URL || `https://${ORG}.github.io`;
 const baseUrl = process.env.DOCS_BASE_URL || `/${REPO}/`;
