@@ -32,3 +32,7 @@ The diagram is saved with the specified name and location.
 ## File format
 
 draw.io uses XML (`.drawio`) as its default editable file format. You can reopen this file in draw.io to continue editing your diagram.
+
+## Related information
+
+- [Export a diagram](/docs/managing-diagrams/export-diagram)

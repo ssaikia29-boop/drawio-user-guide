@@ -11,3 +11,8 @@ You can move shapes to reposition them on the canvas and organize your diagram.
 5. Release the mouse button.
 
 The shape moves to the new position. Any connectors attached to the shape remain connected.
+
+## Related information
+
+- [Align shapes](/docs/editing-diagrams/align-shapes)
+- [Arrange overlapping objects](/docs/editing-diagrams/arrange-objects)

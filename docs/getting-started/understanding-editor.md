@@ -1,4 +1,4 @@
-# Understanding draw.io editor
+# Understanding the draw.io editor
 
 The draw.io editor provides several tools and panels that help you create and edit diagrams. Understanding these areas makes it easier to work with the application.
 

@@ -27,3 +27,9 @@ Some commonly used shapes include:
 - Polylines
 
 You can combine different shapes to create your diagram.
+
+## Related information
+
+- [Connect shapes](/docs/creating-diagrams/connect-shapes)
+
+
