@@ -5,7 +5,7 @@ Templates are predesigned diagrams that provide a starting layout for different 
 
 ## Procedure
 
-1. On the draw.io editor, in Menu bar, click **File**.
+1. On the draw.io editor, in the menu bar, click **File**.
 2. From the menu, select **New**.
 3. In the dialog box, do one of the following:
    - To create a diagram from scratch, click **Blank Diagram**.
